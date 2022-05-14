@@ -14,8 +14,8 @@
     "postdeploy": "echo 'restarting'"
   },
   "addons": [
-    "mongolab",
-    "rediscloud",
+
+
     "cloudamqp"
   ],
   "env": {
